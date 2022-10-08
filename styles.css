@@ -1,0 +1,68 @@
+body {
+    background-color: hsl(30, 38%, 92%);
+}
+h2 {
+    font-family: 'Fraunces', serif;
+    padding-right: 1px;
+    color: grey;
+    font-weight: 500;
+    font-size: 24px;
+    margin-top: 30px;
+}
+
+h1 {
+    font-family: 'Fraunces', serif;
+    font-weight: 700;
+}
+
+p {
+    font-size: 14px;
+}
+#price {
+    font-size: 30px;
+    color: hsl(158, 36%, 37%);
+    font-weight: 700;
+    font-family: 'Fraunces', serif;
+}
+
+button {
+    background-color: green;
+    border-radius: 5px;
+    background-color: hsl(158, 36%, 37%);
+    color: white;
+    font-size: 13px;
+    width: 80%;
+    padding: 10px;
+    margin-top: 30px;
+
+}
+
+button:hover {
+    opacity: 90%;
+}
+
+img {
+    height: 30em;
+    float: right;
+    margin: 10px;
+    margin-left: -40px;
+    margin-top: 40px;
+    border-bottom-left-radius: 8px;
+    border-top-left-radius: 8px;
+}
+
+.essence {
+    height: 30em;
+    max-width:27%;
+    border: 1px solid black;
+    /* padding: 15px; */
+    margin: 10px;
+    background-color: hsl(30, 38%, 92%);
+    margin-left: -25px;
+    margin-right: 20%;
+    margin-top: 40px;
+    padding-left: 35px;
+    font-family: 'Fraunces', serif;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
