@@ -15,6 +15,7 @@ This is a solution to the [Product preview card component challenge.
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
+
 ## Overview
 
 This project aims at using html, css and bootstrap to design a perfume shop web page showing the details of a particular product and the details of the product. While doing the project, you increase your skills on these.
@@ -28,7 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
--[Images\Screenshot.png](#Images\Screenshot.png)
+https://imgur.com/9jTXUXE
 
 ## Process
 
@@ -53,7 +54,7 @@ The process shows the steps I went through while building this page.
 ### Continued Development
 -To continue on this path and build a better site which will be hosted.
 
-###Usefyl Resources
+###Useful Resources
 -https://getbootstrap.com/
 -https://w3schools.com
 
