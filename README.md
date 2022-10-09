@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
--[Screenshot](#Images\Screenshot.png)
+-[Images\Screenshot.png](#Images\Screenshot.png)
 
 ## Process
 
